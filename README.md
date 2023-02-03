@@ -1,5 +1,5 @@
 ## Olá, eu sou o Junior Ventura!!!
-Agora com novos desafios iniciando como desenvolver, para ser mais específico, WEB DEV, procuro me desafiar 
+WEB DEV, procuro me desafiar 
 a cada dia mais, a partir de novos contatos e aprendizados e assim crescendo como pessoa e profissional.
 Procurando agregar valores por onde passar.
 
