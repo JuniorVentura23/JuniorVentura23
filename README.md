@@ -1,7 +1,5 @@
-## Olá, eu sou o Luis Ventura Junior!!!
-Desenvolvedor front end, procuro me desafiar 
-a cada dia mais, a partir de novos contatos e aprendizados e assim crescendo como pessoa e profissional.
-Procurando agregar valores por onde passar.
+## Olá, bem vindo ao meu perfil!!!
+
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorVentura23&show_icons=true&theme=radical)
